@@ -48,7 +48,8 @@ h2{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
     box-shadow: 10px 10px 30px grey;
     border-radius: 10px;
 }
@@ -56,4 +57,17 @@ h2{
     background-image: url(../image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#web-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#web-dev-2{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
