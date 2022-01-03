@@ -8,12 +8,14 @@ h1{
 .tes{
     color: #2e6aeb;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 .image-1{
     width: 60%;
