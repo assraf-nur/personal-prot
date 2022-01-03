@@ -38,3 +38,22 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+.level{
+    color: orange;
+}
+h2{
+    font-size: 40px;
+}
+.exper{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 40px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 10px;
+}
+.experience-area{
+    background-image: url(../image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
