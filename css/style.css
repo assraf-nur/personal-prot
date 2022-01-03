@@ -23,6 +23,8 @@ section{
     background-image: linear-gradient(#9c9cb6, #55a1f8);
     border-radius: 9px;
     padding: 10px 40px;
+    font-size: larger;
+    font-weight: 900;
     
 }
 .top-banner{
